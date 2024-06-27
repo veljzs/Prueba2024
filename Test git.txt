@@ -2,9 +2,5 @@ Código desde local
 Segunda linea
 Cambio desde local / Modificado desde web
 
-lineas para generar conflicto:
-Illo a a et similique at. Praesentium iusto nesciunt aut. Magni sit quaerat enim qui distinctio pariatur ut. Itaque doloribus rem odit error magnam.
-
-
 Esta es una nueva prueba
 cambio agregado desde el remoto
